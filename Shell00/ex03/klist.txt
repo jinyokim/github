@@ -1,2 +1,0 @@
-    Name                  Cache name                                 Expires
-* jinyokim@42SEOUL.KR   API:5B48E1D6-F567-4210-B57A-7F6B1C72FF0F   Jul  1 22:28:49 2020
